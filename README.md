@@ -16,12 +16,12 @@ Estructura del proyecto:
 **Funcionalidades**
 - Uso de herencia.
 - Uso de composición.
-- Encapsulamieno mediante atributos privados.
+- Encapsulamiento mediante atributos privados.
 - Métodos getter y setter.
 - Uso de toString().
 - Creación de objetos desde Main.
 
 **Ejecución**
-- Abrit el proyecto en IntelliJ IDEA.
+- Abrir el proyecto en IntelliJ IDEA.
 - Ejecutar la clase Main.java.
-- Visualizar loos datos en consola.
+- Visualizar los datos en consola.
